@@ -1,1 +1,1 @@
-Learning strongly statistically type language, 
+Learning strongly dynamically type language, 
